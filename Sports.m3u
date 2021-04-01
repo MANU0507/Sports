@@ -23,3 +23,99 @@ https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7MkX0Ct.png" tvg-url="" group-title="",Sky 2 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
+
+#EXTINF:-1 tvg-logo="https://disney.fandom.com/wiki/ESPN2?file=2000px-ESPN2_logo.png" ,ESPN 2
+https://e10.espncdn.shop/ingestnb4s/espn2_sur/f.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/espn.png" ,ESPN
+https://e10.espncdn.shop/ingestnb4s/espn_sur/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png" ,ESPN 3
+https://e10.espncdn.shop/ingestnb4s/espn3_sur/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/directv.png" ,DIRECTV SPORTS
+https://telerium.digital/ingest013/71388.m3u8?sf=NlFvVm50UUlWSQ==&token=kRQd2HdA0n4Q1eWflwSRFA&expires=1617306480&rnd=71388
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/directv.png" ,DIRECTV SPORTS 2
+https://telerium.digital/ingest01/68176.m3u8?sf=Tnh4NVl4MDlDRg==&token=4pliYHahTL0STuKcvKzA-A&expires=1617306606&rnd=68176
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/tntsports.png" ,TNT SPORTS
+https://telerium.digital/ingest02/53379.m3u8?sf=Tk05OXZXZ0Y4Yg==&token=P73Jvsdvq1YIFVPCFwvnrQ&expires=1617306666&rnd=53379
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/rmcsport.png" ,RMC Sport 1
+https://e2.espncdn.shop/ingest01/56900.m3u8?sf=c3loc0VHY2M1MA==&token=lDMpoAfe5vpL7Yrq0Cb0ow&expires=1617320881&rnd=
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/rmcsport.png" ,RMC Sport 2
+https://telerium.digital/ingest02/66527.m3u8?sf=bDREU0x4WlAyVA==&token=27g07L8non9Z0xEIo8zYDA&expires=1617307051&rnd=66527
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/sporttv.png" ,SPORT TV1
+https://ddyjj4bnn93yqcu3.ezcdn383.net:8443/hls/walxjawfo5x.m3u8?s=FvwaiL5WY0GS96EV9Nnpxw&e=1617328260
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/sporttv.png" ,SPORT TV3
+https://ddyjj4bnn93yqcu3.ezcdn383.net:8443/hls/t69y1s69ffvz.m3u8?s=ktZoGmeh75NYn9ti19KG_g&e=1617328379
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/atpwta.png" ,ATP WTA
+https://dai.google.com/linear/hls/pa/event/hj7NDZ5ZSE2m2MWQPiKp3Q/stream/038bef54-0f29-475d-8185-de5b95f772a9:BRU/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/atpwta.png" ,ATP PLUS 1
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/atpwta.png" ,ATP PLUS 2
+https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/atpwta.png" ,ATP PLUS 3
+https://playoutengine.sinclairstoryline.com/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/atpwta.png" ,ATP PLUS 7
+https://playoutengine.sinclairstoryline.com/playout/febfc709-d9a5-4caa-ab73-1cce0e4bc6e9.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/mlb.png" ,MLB Network
+https://tve-live.mlb.com/1617318097_14e79ab2326ae397df75dd0cbafec6e7b20e4103e0c72d42beb4791ae45e3c95/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net_5472K.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/olympic.png" ,Olympic Channel 1
+https://ott-dai.olympicchannel.com/out/u/OC1.m3u8?hdnea=st=1617307449~exp=1617307749~acl=*~id=a9099e41-c194-4d8e-a535-04c41303448d~hmac=63710062176b98d43e6ff7f8f93cfc7fac38ff6a91ec0a8338afca82995fc964&originpath=/linear/hls/pa/event/fxX_T3uJQPyZsdlYxKJQoA/stream/443ac048-66d1-4f78-bff5-ad7ef1da97a7:BRU/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/olympic.png" ,Olympic LIVE USA
+https://olympicchannel.akamaized.net/hls/live/2002655/OlympicChannel01685ca0/clear/master.m3u8?AkamaiToken=exp=1617307694~acl=/*~hmac=888f289cc90789fa48a2dedcfb22b4e737f4e68156860b613adbc256b204550a&hdnts=exp=1617307694~acl=/*~hmac=888f289cc90789fa48a2dedcfb22b4e737f4e68156860b613adbc256b204550a&stime=1617307394&etime=1617307694&Level3Token=05e9b5584dd4e0e36eff7
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/olympic.png" ,Olympic Channel 2
+https://ott-dai.olympicchannel.com/out/u/OC2.m3u8?hdnea=st=1617307605~exp=1617307905~acl=*~id=0e6fac41-4864-444b-923a-bd578ad6d315~hmac=92be828c2a29e46cd7f6ffd6943ad3d8729646f9b1566d4aad593cb9e4164ffa&originpath=/linear/hls/pa/event/E0MqwlqrRF-JYuFX1F-6qw/stream/c8004446-fa5d-4958-84b8-32efa03798fa:BRU/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/garage.png" ,Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/onlymotors.png" ,Only Motors
+https://cloudietv.broadcastcdn.net/CLOUDIETV-OMTVUK/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/mennmotors.png" ,Men and Motors
+https://cloudietv.broadcastcdn.net/CLOUDIETV-MENANDMOTORSUK/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/hdtv.png" ,Harley Davidson Main
+https://hdtv.prod2.ioio.tv/broker/play/25c3ad9e-0260-4f5b-a7ff-3fff03066b30.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/hdtv.png" ,Harley Davidson Factory
+https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/racing.png" ,Racing
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:-1 tvg-logo="https://photocall.xyz/images/kidgamer.png" ,Kid Gamer TV
+https://studio71-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" tvg-url="" group-title="",BEIN SPORTS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" tvg-url="" group-title="",BEIN SPORTS HD ESPAÑOL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-country="QA" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",beIN SPORTS XTRA
+http://plutotv.vo.llnwd.net/m/hlslive/bein.m3u8?chname=bein&pub=0
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-country="QA" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",beIN SPORTS XTRA
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://4.bp.blogspot.com/-7LCisvwdtnE/W5lerwLc4jI/AAAAAAAAAc0/ctzvBb4_L3AKk7I4lvlYdv59M91fVcQjgCLcBGAs/s1600/fox-sports2.png" tvg-url="" group-title="",FOX SPORT 2 HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" tvg-url="" group-title="",Fox Sports 3 Asia
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
